@@ -1,3 +1,3 @@
 # Mailing SeCTIP
 
-Se utiliza la misma plantilla y va cambiando la información.
+Mailing institucional de la Secretaría de Ciencia, Tecnologia e Innovación Tecnologica de la Universidad Tecnóligica Nacional, Facultad Regional Buenos Aires.
